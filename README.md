@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Pratham Sharma</h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamsharma2504&hide=stars&show_icons=true&locale=en" alt="prathamsharma2504" width="350" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamsharma2504&hide=stars&show_icons=true&locale=en" alt="prathamsharma2504" width="450"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsharma2504&layout=compact" alt="prathamsharma2504"width="350"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsharma2504&layout=compact" alt="prathamsharma2504" width="450"/>
 </a>
 
 <h4 align="left">Languages and Tools:</h4>
